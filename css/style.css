@@ -68,6 +68,7 @@ body {
   height: 7rem;
   background-color: #fff;
   border-color: var(--color-grey-light-2);
+  display: flex;
 }
 
 .content {
